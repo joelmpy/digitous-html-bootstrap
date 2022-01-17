@@ -1,0 +1,30 @@
+
+
+
+.row > div > div {
+    height: 2rem;
+}
+.yellow{
+    background-color: yellow;
+}
+.bleu {
+    background-color: blue;
+}
+.red{
+    background-color: red;
+}
+.green{
+    background-color: green;
+}
+.gris{
+    background-color: grey;
+}
+.violet{
+    background-color: violet;
+}
+.orange{
+    background-color: orange;
+}
+.black{
+    background-color: black;
+}
