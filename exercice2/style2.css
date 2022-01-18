@@ -1,6 +1,17 @@
+
+.row > div > div {
+    height: 2rem;
+   margin: 2px;
+}
+
 .yellow {
     background-color: yellow;
 }
+
 .bleu{
     background-color: blue;
+}
+
+.red{
+    background-color:red;
 }
